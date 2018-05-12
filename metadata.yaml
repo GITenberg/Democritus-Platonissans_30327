@@ -1,0 +1,36 @@
+_repo: Democritus-Platonissans_30327
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: More, Henry
+    alias: Morus, Henricus
+    birthdate: 1614
+    deathdate: 1687
+    gutenberg_agent_id: '34535'
+    url: http://www.gutenberg.org/2009/agents/34535
+    wikipedia: http://en.wikipedia.org/wiki/Henry_More
+  editor:
+    agent_name: Stanwood, P. G.
+    alias: Stanwood, Paul G.
+    birthdate: 1933
+    gutenberg_agent_id: '34536'
+    url: http://www.gutenberg.org/2009/agents/34536
+description: ''
+gutenberg_issued: '2009-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30327'
+  lccn: '68006609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Philosophy -- Poetry'
+- !lcsh 'Platonists -- Poetry'
+title: Democritus Platonissans
+url: http://www.gutenberg.org/ebooks/30327
